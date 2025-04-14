@@ -31,8 +31,9 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "black",
-    "isort",
     "checkov",
+    "flake8-bugbear",
+    "isort",
 ]
 test = [
 ]
