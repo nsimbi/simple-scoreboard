@@ -32,6 +32,7 @@ dependencies = [
 dev = [
     "black",
     "isort",
+    "checkov",
 ]
 test = [
 ]
